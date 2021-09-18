@@ -20,7 +20,7 @@ spec:
     spec:
       containers:
       - name: web-cont
-        image: bkirov/izpit
+        image: shekeriev/dofexam-app2
         ports:
         - containerPort: 80 
 ---
